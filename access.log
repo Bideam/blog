@@ -1,0 +1,4 @@
+::1 - - [Sun, 14 Aug 2016 02:36:56 GMT] "GET / HTTP/1.1" 200 1515 "http://localhost:3000/u/jiji/2016-8-14/asfd" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 UBrowser/4.0.4627.3 Safari/537.36"
+::1 - - [Sun, 14 Aug 2016 02:36:56 GMT] "GET /stylesheets/style.css HTTP/1.1" 200 1778 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 UBrowser/4.0.4627.3 Safari/537.36"
+::1 - - [Sun, 14 Aug 2016 02:37:26 GMT] "GET /archive HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 UBrowser/4.0.4627.3 Safari/537.36"
+::1 - - [Sun, 14 Aug 2016 02:37:26 GMT] "GET /stylesheets/style.css HTTP/1.1" 200 1778 "http://localhost:3000/archive" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 UBrowser/4.0.4627.3 Safari/537.36"
